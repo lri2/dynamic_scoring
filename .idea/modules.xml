@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic_scoring.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic_scoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamic_scoring-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamic_scoring-build.iml" />
     </modules>
   </component>
 </project>
